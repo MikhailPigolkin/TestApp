@@ -143,6 +143,9 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>
+            test-app
+        </finalName>
     </build>
     <repositories>
         <repository>
